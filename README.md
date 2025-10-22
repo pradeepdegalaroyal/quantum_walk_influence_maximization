@@ -112,5 +112,5 @@ MIT License
 
 ## Author
 
-[Your Name] - Quantum Computing Enthusiast and Qiskit AdvocateEmail: your.email@example.comGitHub: github.com/your-username
+Degala Chenchupradeep - Quantum Computing Enthusiast and Qiskit Advocate Email: pradeepdegala143@gmail.com GitHub: [github.com/](https://github.com/pradeepdegalaroyal/)
 
