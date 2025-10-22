@@ -1,1 +1,6 @@
-qiskit==0.44.0 networkx==3.0 numpy==1.24.0 matplotlib==3.7.0 scipy==1.10.0
+# requirements.txt (updated)
+qiskit>=0.52.0  # 0.52.0 and newer support Python 3.12
+networkx==3.0
+numpy==1.26.4
+matplotlib==3.7.0
+scipy>=1.15.0   # 1.15.0 and newer support Python 3.12
